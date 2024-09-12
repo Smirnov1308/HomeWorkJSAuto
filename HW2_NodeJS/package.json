@@ -1,0 +1,19 @@
+{
+  "name": "hw2_nodejs",
+  "version": "1.0.0",
+  "description": "my HomeWork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test?"
+  ],
+  "author": "Smirnov AA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "eslint": "^8.57.0",
+    "prettier": "^2.0.0"
+  }
+}
