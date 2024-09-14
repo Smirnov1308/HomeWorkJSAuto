@@ -1,0 +1,23 @@
+{
+  "name": "hw3_jestplay",
+  "version": "1.0.0",
+  "description": "my HomeWork3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --collectCoverage"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "jsaqa"
+  ],
+  "author": "Smirnov AA",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "cypress": "^13.14.2",
+    "eslint": "^8.57.0",
+    "prettier": "^2.0.0"
+  }
+}
