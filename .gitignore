@@ -6,6 +6,15 @@ node_modules/
 screen/
 Auto-JS/
 package-lock.json
+user.js
+
 
 # Local History for Visual Studio Code
 .history/
+
+
+
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

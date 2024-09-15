@@ -1,18 +1,15 @@
 {
-  "name": "hw3_jestplay_p2",
+  "name": "playwright",
   "version": "1.0.0",
-  "description": "my HomeWork3 part2",
   "main": "index.js",
-  "scripts": {
-    "test": "playwright"
-  },
+  "scripts": {},
+  "keywords": [],
   "author": "Smirnov AA",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.12.3",
-    "playwright": "^1.12.3",
-    "cypress": "^13.14.2",
-    "eslint": "^8.57.0",
-    "prettier": "^2.0.0"
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5",
+    "eslint": "^8.57.0"
   }
 }
